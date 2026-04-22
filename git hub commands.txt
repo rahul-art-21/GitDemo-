@@ -1,0 +1,27 @@
+git config --global user.name "rahul-art-12"
+git config --global user.email "krishnanrahul162@gmail.com"
+git config --global color.ui auto (color auto suggest)
+
+mandatory commands:
+    >> git init (instialisation)
+    >> git remote add origin https://github.com/rahul-art-21/GitDemo-.git (for remote connection with git hub respo)
+    
+For pull
+    >> git pull origin main   
+
+git status (to check)
+
+For push
+    >> git add . (for all the thing )
+    >> git commit -m "commit message"
+    >> git push 
+
+Create a new branch
+    >> git checkout -b "day1Branch"
+
+Switching branch
+    >> git checkout "branchName"
+
+To clone perticular file 
+    >> commands
+    >> git clone url

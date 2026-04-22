@@ -1,0 +1,14 @@
+http:
+
+https:
+
+ftp: file tranfer protocol 
+
+smtp: simple mail tranfer protocol
+
+tcp: transmission control protocol
+
+upd: userdata protection protocol
+
+ip: internet protocol
+    ipv4 or ipv6
